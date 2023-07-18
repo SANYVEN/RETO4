@@ -28,4 +28,8 @@ public class UserService {
     public User getUserById(Integer id) {
         return userRepository.findById(id).orElse(null);
     }
+
+    public List<User> birthtDayList(String monthBirthtDay) {
+        return userRepository.findByMonthBirthtDay(monthBirthtDay);
+    }
 }

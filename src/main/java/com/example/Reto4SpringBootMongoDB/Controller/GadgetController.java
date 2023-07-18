@@ -30,4 +30,14 @@ public class GadgetController {
         List<Gadget> gadgets = gadgetService.getAllGadgets();
         return new ResponseEntity<>(gadgets, HttpStatus.OK);
     }
+
+    @GetMapping("/price/{price}")
+    public List<Gadget> gadgetsByPrice(@PathVariable("price") double precio) {
+        return gadgetService.gadgetsByPrice(precio);
+    }
+
+    @GetMapping("/description/{description}")
+    public List<Gadget> findByDescriptionLike(@PathVariable("description") String description) {
+        return gadgetService.findByDescriptionLike(description);
+    }
 }

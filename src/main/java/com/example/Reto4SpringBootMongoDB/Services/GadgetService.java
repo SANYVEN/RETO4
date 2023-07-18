@@ -23,4 +23,13 @@ public class GadgetService {
     public List<Gadget> getAllGadgets() {
         return gadgetRepository.findAll();
     }
+
+    //Reto 5
+    public List<Gadget> gadgetsByPrice(double precio) {
+        return gadgetRepository.findByPriceLessThanEqual(precio);
+    }
+    //Reto 5
+    public List<Gadget> findByDescriptionLike(String description) {
+        return gadgetRepository.findByDescriptionLike(description);
+    }
 }
