@@ -1,0 +1,15 @@
+H:\UNIVERSIDAD\JAVA\Reto4 OMAR MORENO\src\main\java\com\example\Reto4SpringBootMongoDB\Reto4SpringBootMongoDbApplication.java
+H:\UNIVERSIDAD\JAVA\Reto4 OMAR MORENO\src\main\java\com\example\Reto4SpringBootMongoDB\Controller\GadgetController.java
+H:\UNIVERSIDAD\JAVA\Reto4 OMAR MORENO\src\main\java\com\example\Reto4SpringBootMongoDB\Controller\OrderController.java
+H:\UNIVERSIDAD\JAVA\Reto4 OMAR MORENO\src\main\java\com\example\Reto4SpringBootMongoDB\Entity\Gadget.java
+H:\UNIVERSIDAD\JAVA\Reto4 OMAR MORENO\src\main\java\com\example\Reto4SpringBootMongoDB\Entity\Order.java
+H:\UNIVERSIDAD\JAVA\Reto4 OMAR MORENO\src\main\java\com\example\Reto4SpringBootMongoDB\Services\GadgetService.java
+H:\UNIVERSIDAD\JAVA\Reto4 OMAR MORENO\src\main\java\com\example\Reto4SpringBootMongoDB\Entity\User.java
+H:\UNIVERSIDAD\JAVA\Reto4 OMAR MORENO\src\main\java\com\example\Reto4SpringBootMongoDB\Repository\UserRepository.java
+H:\UNIVERSIDAD\JAVA\Reto4 OMAR MORENO\src\main\java\com\example\Reto4SpringBootMongoDB\Entity\Product.java
+H:\UNIVERSIDAD\JAVA\Reto4 OMAR MORENO\src\main\java\com\example\Reto4SpringBootMongoDB\Repository\GadgetRepository.java
+H:\UNIVERSIDAD\JAVA\Reto4 OMAR MORENO\src\main\java\com\example\Reto4SpringBootMongoDB\Services\OrderService.java
+H:\UNIVERSIDAD\JAVA\Reto4 OMAR MORENO\src\main\java\com\example\Reto4SpringBootMongoDB\Entity\SalesMan.java
+H:\UNIVERSIDAD\JAVA\Reto4 OMAR MORENO\src\main\java\com\example\Reto4SpringBootMongoDB\Controller\UserController.java
+H:\UNIVERSIDAD\JAVA\Reto4 OMAR MORENO\src\main\java\com\example\Reto4SpringBootMongoDB\Services\UserService.java
+H:\UNIVERSIDAD\JAVA\Reto4 OMAR MORENO\src\main\java\com\example\Reto4SpringBootMongoDB\Repository\OrderRepository.java
